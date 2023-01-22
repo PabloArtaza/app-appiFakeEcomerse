@@ -1,4 +1,4 @@
-# app-appiFakeEcomerse
+# app-appiFakeEcommerce
 
 Proyecto Final en desarrollo.
 
